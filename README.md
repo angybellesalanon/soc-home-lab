@@ -43,3 +43,8 @@ Hands-on experience with SIEM tools
 Detection of brute force attacks
 Log correlation and analysis
 Incident handling basics
+
+Future Improvements
+Add more attack scenarios (phishing, malware)
+Integrate additional tools (Splunk, ELK)
+Automate detection with scripts
