@@ -34,7 +34,12 @@ Linux & Windows systems
 
 Screenshots
 Wazuh Dashboard
-
 Security Alerts
-
 Logs Analysis
+
+Key Learnings
+Understanding of SOC operations
+Hands-on experience with SIEM tools
+Detection of brute force attacks
+Log correlation and analysis
+Incident handling basics
