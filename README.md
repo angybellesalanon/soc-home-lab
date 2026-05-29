@@ -3,9 +3,9 @@ This project aims to build a **SOC (Security Operations Center) home lab** using
 
 **Environment Setup:**
 - Virtualization: VMware
--Attacker Machine: Kali Linux
--Target Machine: Windows 10
--SIEM Server: Ubuntu + Wazuh
+- Attacker Machine: Kali Linux
+- Target Machine: Windows 10
+- SIEM Server: Ubuntu + Wazuh
 
 Activities Performed
 Network scanning using Nmap
