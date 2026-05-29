@@ -1,11 +1,11 @@
 **Objective:**
 This project aims to build a **SOC (Security Operations Center) home lab** using VMware to simulate real-world cyber attacks and practice detection, monitoring, and incident response.
 
-Environment Setup
-Virtualization: VMware
-Attacker Machine: Kali Linux
-Target Machines: Windows 10, Ubuntu
-SIEM: Wazuh
+**Environment Setup:**
+-Virtualization: VMware
+-Attacker Machine: Kali Linux
+-Target Machine: Windows 10
+-SIEM Server: Ubuntu + Wazuh
 
 Activities Performed
 Network scanning using Nmap
