@@ -19,7 +19,6 @@ This project aims to build a **SOC (Security Operations Center) home lab** using
 - Implementation of basic incident response actions
 
 **Detection & Analysis**
-
 During the simulation, multiple failed login attempts were detected, indicating a brute force attack.
 
   - Identification of attacker IP address
