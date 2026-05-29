@@ -28,7 +28,26 @@ During the simulation, multiple failed login attempts were detected, indicating 
   - Analysis of attack patterns and timeline
 
 **Incident Response**
-- Isolation of the compromised machine
-- Investigation of logs and alerts
-- Identification of attack source
-- Recommendation to block attacker IP and strengthen authentication policies
+ - Isolation of the compromised machine
+ - Investigation of logs and alerts
+ - Identification of attack source
+ - Recommendation to block attacker IP and strengthen authentication policies
+
+**SOC Capabilities Demonstrated**
+- Intrusion detection
+- Log analysis and correlation
+- Threat identification
+- Alert monitoring
+- Incident response
+
+**Tools & Technologies**
+- Wazuh (SIEM)
+- Nmap
+- Kali Linux
+- VMware
+- Linux & Windows systems
+  
+**Screenshots** 
+- Wazuh Dashboard
+- Security Alerts
+- Logs Analysis
