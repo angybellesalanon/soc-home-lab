@@ -1,6 +1,5 @@
 **Objective:**
-
-This project aims to build a **SOC (Security Operations Center) home lab**using VMware to simulate real-world cyber attacks and practice detection, monitoring, and incident response.
+This project aims to build a **SOC (Security Operations Center) home lab** using VMware to simulate real-world cyber attacks and practice detection, monitoring, and incident response.
 
 Environment Setup
 Virtualization: VMware
