@@ -51,3 +51,10 @@ During the simulation, multiple failed login attempts were detected, indicating 
 - Wazuh Dashboard
 - Security Alerts
 - Logs Analysis
+  
+**Key Learnings**
+- Understanding SOC operations workflow
+- Hands-on experience with SIEM tools
+- Detection of brute force attacks
+- Log correlation and analysis
+Incident investigation and response
