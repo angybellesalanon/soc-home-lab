@@ -27,26 +27,8 @@ During the simulation, multiple failed login attempts were detected, indicating 
   - Alert generation based on suspicious behavior
   - Analysis of attack patterns and timeline
 
-Tools & Technologies
-Wazuh (SIEM)
-Nmap
-Kali Linux
-VMware
-Linux & Windows systems
-
-Screenshots
-Wazuh Dashboard
-Security Alerts
-Logs Analysis
-
-Key Learnings
-Understanding of SOC operations
-Hands-on experience with SIEM tools
-Detection of brute force attacks
-Log correlation and analysis
-Incident handling basics
-
-Future Improvements
-Add more attack scenarios (phishing, malware)
-Integrate additional tools (Splunk, ELK)
-Automate detection with scripts
+**Incident Response**
+- Isolation of the compromised machine
+- Investigation of logs and alerts
+- Identification of attack source
+- Recommendation to block attacker IP and strengthen authentication policies
