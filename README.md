@@ -57,4 +57,9 @@ During the simulation, multiple failed login attempts were detected, indicating 
 - Hands-on experience with SIEM tools
 - Detection of brute force attacks
 - Log correlation and analysis
+
+**Future Improvements**
+ - Add more attack scenarios (phishing, malware)
+ - Integrate additional SIEM tools (Splunk, ELK)
+ - Automate detection and response using scripts
 Incident investigation and response
