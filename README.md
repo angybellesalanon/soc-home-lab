@@ -7,8 +7,7 @@ This project aims to build a **SOC (Security Operations Center) home lab** using
 - Target Machine: Windows 10
 - SIEM Server: Ubuntu + Wazuh
 
-**Activities Performed**
-- Network scanning using Nmap to identify active hosts and exposed services
+**Activities Performed**- Network scanning using Nmap to identify active hosts and exposed services
 - Enumeration of open ports and services
 - Simulation of cyber attacks:
        - Brute force attack
